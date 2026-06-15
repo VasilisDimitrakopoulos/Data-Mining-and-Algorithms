@@ -21,16 +21,13 @@ git clone <repository-url>
 python -m venv venv
 ```
 3. Activate the enviroment
-**Windows**
 ```bash
-venv\Scripts\activate
+venv\Scripts\activate #Windows
 ```
-**Linux / macOS**
 ```bash
-source venv/bin/activate
+source venv/bin/activate #Linux / macOS
 ```
 4. Install requirements
-**Linux / macOS**
 ```bash
 pip install -r requirements.txt
 ```
