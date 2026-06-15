@@ -13,9 +13,6 @@ The project was developed as part of a university course to explore data preproc
 
 ## Installation
 1. Clone the repository
-```Bash
-git clone <repository-url>
-```
 2. Create a virtual environment
 ```Bash
 python -m venv venv
