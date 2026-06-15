@@ -9,7 +9,7 @@ The project was developed as part of a university course to explore data preproc
 - Classification algorithms
   - Decision Trees
   - Random Forest
--Clustering algorithms
+- Clustering algorithms
 
 ## Installation
 1. Clone the repository
